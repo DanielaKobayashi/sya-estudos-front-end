@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #A981F5;
+}
+
+h2 {
+    color: #66CBFF;
+}
+
+h3 {
+    color: #FF81AB;
+}
+
+
+
+/* 
+
+--- Escolha 4 fontes diferentes (uma de cada tipo):
+
+font-family: 'Lora', serif;
+
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Cutive Mono', monospace;
+
+font-family: 'Great Vibes', cursive;
+
+
+
+--- Escolha de 1 a 3 paletas de cores no Adobe:
+
+.Mijn-Color-thema-1-hex { color: #FF81AB; }
+.Mijn-Color-thema-2-hex { color: #A981F5; }
+.Mijn-Color-thema-3-hex { color: #66CBFF; }
+.Mijn-Color-thema-4-hex { color: #5CE892; }
+.Mijn-Color-thema-5-hex { color: #F6FF71; }
+
+*/
+

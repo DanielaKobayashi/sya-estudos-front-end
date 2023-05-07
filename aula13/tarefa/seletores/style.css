@@ -1,0 +1,22 @@
+body {
+    background-color: #66CBFF;
+    color: #ffffff;
+}
+
+
+h1 {
+    background-color: #5CE892;
+    color: rgb(9, 59, 32);
+}
+
+
+.class-classe {
+    background-color: #FF81AB;
+    color: rgb(202, 20, 111);
+}
+
+
+#id-id {
+    background-color: #A981F5;
+    color: rgb(126, 18, 214);
+}

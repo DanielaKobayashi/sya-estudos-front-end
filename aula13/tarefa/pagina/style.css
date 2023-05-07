@@ -1,0 +1,42 @@
+#id-title {
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #66CBFF;
+    text-align: center;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    font-size: 0.9rem;
+    text-align: justify;
+    background-color: #eeeeee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 150%;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #A981F5;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: dotted underline;
+    text-decoration-thickness: 15%;
+}
+
+
+h3 {
+    font-size: 1.5rem;
+    color: #FF81AB;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#id-rodape {
+    font-size: 0.3rem;
+    color: gray;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(183, 58, 255);
+    color: white;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.serif {
+    font-family: serif;
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+.monospace {
+    font-family: monospace;
+}
+
+.cursive {
+    font-family: cursive;
+}
