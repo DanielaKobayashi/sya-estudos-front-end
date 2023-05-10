@@ -1,0 +1,54 @@
+/* Color Theme Swatches in Hex */
+.Pink-Poddle-2-1-hex { color: #F2ACD3; }
+.Pink-Poddle-2-2-hex { color: #F2C9E0; }
+.Pink-Poddle-2-3-hex { color: #F2A2D6; }
+.Pink-Poddle-2-4-hex { color: #F2F2F2; }
+.Pink-Poddle-2-5-hex { color: #595959; }
+
+@media (max-width: 425px) {
+    #id-title {
+        font-size: 2rem;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #F2A2D6;
+        text-align: center;
+        font-weight: bolder;
+    }
+    
+    a {
+        text-decoration: none;
+        color: #F2C9E0;
+    }
+    
+    body {
+        font-size: 0.8rem;
+        text-align: justify;
+        background-color: #595959;
+        color: #F2F2F2;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        line-height: 150%;
+    }
+    
+    h2 {
+        font-size: 2rem;
+        color: #F2ACD3;
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-decoration: dotted underline;
+        line-height: normal;
+    }
+    
+    
+    h3 {
+        font-size: 1.5rem;
+        color: #F2C9E0;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        line-height: normal;
+    }
+    
+    #id-rodape {
+        font-size: 0.1rem;
+        color: #F2F2F2;
+        text-align: center;
+        line-height: normal;
+    }
+}
